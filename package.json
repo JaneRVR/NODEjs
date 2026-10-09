@@ -1,0 +1,13 @@
+{
+  "name": "tienda-bora-world",
+  "version": "1.0.0",
+  "description": "CLI para gestión de productos con FakeStore API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node", "cli", "fakestore", "fetch"],
+  "author": "",
+  "license": "ISC"
+}
